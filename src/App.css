@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+}
+
+
+.username{
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px lightblue;
+}
+
+.password{
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px lightblue;
+}
+
+button{
+  box-shadow: 2px 2px lightblue;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  font: Arial;
+}
